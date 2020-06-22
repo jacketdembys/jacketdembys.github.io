@@ -5,21 +5,12 @@
     <link>https://jacketdembys.github.io/authors/</link>
       <atom:link href="https://jacketdembys.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jacketdembys.github.io/img/identity.png</url>
+      <url>https://jacketdembys.github.io/img/idendity.png</url>
       <title>Authors</title>
       <link>https://jacketdembys.github.io/authors/</link>
     </image>
-    
-    <item>
-      <title></title>
-      <link>https://jacketdembys.github.io/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jacketdembys.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Jacket Demby&amp;rsquo;s&lt;/strong&gt; is a master student in Computer Engineering at the University of Missouri-Columbia where he works with the Vision Guided and Intelligent Robotics Laboratory (ViGIR-Lab). His research interest are going towards machine learning, deep learning, robotics, computer vision and assistive technologies.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
