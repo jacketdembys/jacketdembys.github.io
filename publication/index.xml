@@ -5,12 +5,20 @@
     <link>https://jacketdembys.github.io/publication/</link>
       <atom:link href="https://jacketdembys.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jacketdembys.github.io/img/idendity.png</url>
       <title>Publications</title>
       <link>https://jacketdembys.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Spatio-Temporal Reconstruction and Visualization of Plant Growth for Phenotyping</title>
+      <link>https://jacketdembys.github.io/publication/ssci-2021/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://jacketdembys.github.io/publication/ssci-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Object Detection and Pose Estimation Using CNN in Embedded Hardware for Assistive Technology</title>
